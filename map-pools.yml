@@ -49,7 +49,7 @@ pools:
     - Downforce
     - Acear I
     - SuperCUBE
-    - Aleppo
+    - AlepBOO!
     - Ruins of the User
     - Hot Dam Mini
     - King Neptune
@@ -60,9 +60,9 @@ pools:
     - Serengeti
     - Battle Ecliptica II
     - Royal
-    - Dynamo
+    - DynaboOo
     - Divided
-    - Abudor
+    - Abudracula
     - Infernal Shadow
     - Diramu Valley DTM
     - Jurassic Mini
@@ -79,56 +79,59 @@ pools:
     - Arabian Nightmare
     - Atromix
     - Avalanche Mini
-    - BalloonsDTM
+    - "BalloonsDTM: Halloween"
     - Blitzkrieg CTF
     - Boom
     - Cake Wars
     - Canopy
-    - Cargo Redux
     - Catacomb
-    - Chocolate Diamonds
-    - Circus DTC
+    - "Circus DTC: Halloween"
     - Citadel
     - Cloud Nine
     - Clutter
-    - Coastline Redux
+    - Ghostline Redux
     - Cuboid Fairway
     - Deepwind Jungle
-    - Directrix
+    - DirecTricks
+    - Die Noon
     - Discipline
     - Dorreak
     - Downtown
     - Dust
-    - Empire
+    - Empire in Ruins
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
     - Golden Drought III
     - Green
     - Hallows
+    - Haunted Cargo Redux
     - Immitis
     - Justice
     - Larnia
     - Levels
     - Limbo II
-    - Miner Sixty Niner
     - Mutiny
     - Natsukashii
-    - Persisto
+    - PerSpookySto
     - Placid Spring
+    - Pumpkin Madness
     - Rotten
+    - Scareros
     - Smoke KotH
-    - Snowy Wars
-    - SolitudeMC
+    - Snowy Wars Halloween
+    - SolitudeMC Halloween
     - Spaced Out
+    - SpOOky Diamonds
     - Streamline
     - Strongbow
-    - SuperPRISM
+    - SuperHALLOW
     - Temple
     - The Fenland
     - The High Road
     - "Tree of Life: Mini"
     - Verlate
+    - Ware-Haunted-House
     - Warlock
   centi:
     type: voted
@@ -136,7 +139,7 @@ pools:
     players: 32
     display-name: "centi"
     maps:
-    - "2014: Rage FFA"
+    - A SpOOky Sunset
     - Aerobellum
     - Afflicted
     - Airship Battle
@@ -153,7 +156,7 @@ pools:
     - Coral Reef II
     - Cyril
     - Desert Cataract
-    - Desert Sanctuary
+    - Deserted Sanctuary
     - Donut Wars
     - Enchanted
     - Ender Blast
@@ -177,15 +180,14 @@ pools:
     - Runes of Ruin
     - "Sand Wars: DTE"
     - Siloë
-    - Smog
-    - Spaceship Battles
+    - "Spaceship Battles: Halloween"
     - State of Decay
     - Streamline II
     - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
     - The Complex CTF
-    - The Last Sunset II
+    - "The Lobby: Halloween"
     - Thunder
     - Totem
     - Trench Warfare
@@ -203,15 +205,18 @@ pools:
     display-name: "hecto"
     maps:
     - A New Day
+    - Abandoned Zoo
     - Aequabilis
     - Amazon Kingdom DTC
     - Athirk
     - Avalanche
+    - BackSPOOK
     - Bamboo Valley III
     - Battle Ecliptica III
     - Beehive
     - Below Zero
     - BlockRAGE
+    - Bloody Trident
     - Cabin Fever
     - Cat's Cradle
     - csc(tnt)
@@ -222,14 +227,13 @@ pools:
     - Exiled KotF
     - Factorio Mainbus
     - "Fairy Tales 2: A Tale or Two"
-    - Fallencrests
-    - Fourchette
     - Fractal Descent
     - Gridlock 2
-    - Harb
+    - Hallowed Harb
+    - Haunted Rings
     - Inheritance
     - Interitus
-    - Jungle Beat
+    - Jungle Spook
     - Keipha CTW
     - "Kryta: Rage"
     - Last Overcastian
@@ -238,13 +242,11 @@ pools:
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
-    - Outback
     - Pandemonium
     - Pompeii RAGE
     - Quadrival
     - "Re: The End Kingdom"
     - Retaliation
-    - Ring Race
     - Riverside
     - Sinuous
     - Ski Trip to Blizzardtown
@@ -265,7 +267,6 @@ pools:
     - Wrath Altar
     - Xion
     - Zombie Defense
-    - Zoo
   mega:
     type: voted
     enabled: true
@@ -305,7 +306,7 @@ pools:
     - Mushroom Gorge
     - Necro
     - Nivalis
-    - Nuclear Winter
+    - Nuclear Halloween
     - Race for Victory 3
     - Road Trip to Sunset Town
     - Scrap Mettle
@@ -351,7 +352,7 @@ pools:
     - Irongate Harbor
     - Lost Haven
     - Metro
-    - Midnight Train
+    - Halloween Train
     - Modern Cityscape
     - Moonlight Summit
     - Northlands
@@ -362,7 +363,7 @@ pools:
     - Royal Garden CTW
     - Scorched Grove
     - Sky Traffic 2
-    - Soviet Mills
+    - Soviet Chills
     - Spaceship Battles II
     - Tempest
     - Temple Run
@@ -413,7 +414,7 @@ pools:
     players: 1
     display-name: "fun"
     maps:
-    - 101 Rooms TDM
+    - 101 Pumpkins
     - AstroGEN
     - Ballot Box
     - Banana Split
@@ -456,6 +457,7 @@ pools:
     - Shave Vice
     - Sky Traffic
     - Spaceship Battles
+    - Spooktober
     - Stop the Boats
     - The Dropper
     - "The Dropper: Community Edition"
@@ -493,7 +495,7 @@ pools:
     - Oculo
     - Ping Bomb II
     - Pixel Run
-    - Plus Side
+    - Hallow Side
     - Proelium
     - "Puddin' Pops"
     - Rage Quit
@@ -622,7 +624,7 @@ pools:
     - Overgrown Rage
     - Palude
     - Permeac
-    - Plus Side
+    - Hallow Side
     - Pride
     - Proelium
     - Pyradic
@@ -673,6 +675,7 @@ pools:
     - Chimeric Horror #Chimeric
     - "Circus DTC: Halloween" #Circus DTC
     - Deserted Sanctuary #Desert Sanctuary
+    - Die Noon #Miner Sixty Niner
     - DynaboOo #Dynamo
     - Empire in Ruins #Empire
     - "Fallencrests: Halloween" #Fallencrests
@@ -686,7 +689,7 @@ pools:
     - Jungle Spook #Jungle Beat
     - "The Lobby: Halloween" #2014: Rage FFA
     - Nuclear Halloween #Nuclear Winter
-    - Perspookysto #Persisto
+    - PerSpookySto #Persisto
     - PixelMissing #PixelMix
     - Pumpkin Madness
     - "Spaceship Battles: Halloween" #Spaceship Battles
@@ -701,7 +704,6 @@ pools:
     - Spooky Lyndanisse #Battle of Lyndanisse
     - Spooky Smog #Smog
     - A SpOOky Sunset #The Last Sunset II
-    - Sunrise Over Lava #Sunrise Over Paradise
     - SuperHALLOW #SuperPRISM
     - Ware-Haunted-House
   christmas:
