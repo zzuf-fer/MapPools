@@ -1,6 +1,7 @@
 pools:
   pico:
     type: shuffled
+    cycle-time: 15s
     enabled: true
     players: 1
     display-name: "pico"
@@ -38,10 +39,8 @@ pools:
     - Mini Drought
     - Rage Quit TDM
     - The Grove
-    - "TF2: Badlands CTF"
     - Limbo
     - Fruhling
-    - Xyth KotF
     - Trigo
     - Grassy Mound CTF
     - Tatakai
@@ -67,7 +66,7 @@ pools:
     - Diramu Valley DTM
     - Jurassic Mini
   micro:
-    type: shuffled
+    type: voted
     enabled: true
     players: 20
     display-name: "micro"
@@ -142,7 +141,7 @@ pools:
     - Aerobellum
     - Afflicted
     - Airship Battle
-    - Arabia
+    - AraBOOia
     - Autunno
     - Azure
     - Beach Battles
@@ -159,6 +158,7 @@ pools:
     - Donut Wars
     - Enchanted
     - Ender Blast
+    - Equinox
     - Fortress Battles
     - Grub
     - Harvest
@@ -180,8 +180,8 @@ pools:
     - "Sand Wars: DTE"
     - Siloë
     - "Spaceship Battles: Halloween"
+    - Spooky Country
     - State of Decay
-    - Streamline II
     - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
@@ -206,11 +206,10 @@ pools:
     - A New Day
     - Abandoned Zoo
     - Aequabilis
-    - Amazon Kingdom DTC
     - Athirk
     - Avalanche
     - BackSPOOK
-    - Bamboo Valley III
+    - Bam-BOO Valley III
     - Battle Ecliptica III
     - Beehive
     - Below Zero
@@ -226,6 +225,7 @@ pools:
     - Exiled KotF
     - Factorio Mainbus
     - "Fairy Tales 2: A Tale or Two"
+    - "Fallencrests: Halloween"
     - Fractal Descent
     - Gridlock 2
     - Hallowed Harb
@@ -248,6 +248,7 @@ pools:
     - Riverside
     - Sinuous
     - Ski Trip to Blizzardtown
+    - Spooky Garden DTC
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
@@ -295,7 +296,7 @@ pools:
     - Hadron
     - Harbor CTW
     - Hot Dam
-    - Hotel Overcast
+    - Hotel at Midnight
     - Hydrolock
     - Ion
     - Lights Out
@@ -683,7 +684,9 @@ pools:
     - Halloween Train #Midnight Train
     - Haunted Blocks #Blocks DTC
     - Haunted Cargo Redux #Cargo Redux
+    - Hollow Lines #Zipline
     - Haunted Rings #Ring Race
+    - Hotel at Midnight #Hotel Overcast
     - Jungle Spook #Jungle Beat
     - "The Lobby: Halloween" #2014: Rage FFA
     - Nuclear Halloween #Nuclear Winter
