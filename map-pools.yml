@@ -81,13 +81,14 @@ pools:
     - Blitzkrieg CTF
     - Boom
     - Canopy
+    - Chocolate Diamonds
     - Circus DTC
     - Citadel
     - Cloud Nine
     - Clutter
     - Coastline Redux
     - Cuboid Fairway
-    - Deepwind Jungle
+    - Deepwind Horror
     - Directrix
     - Discipline
     - Dorreak
@@ -99,10 +100,11 @@ pools:
     - "Fairy Tales: Metamorphose"
     - Green
     - Hallows
+    - Immitis
     - Justice
     - Larnia
     - Levels
-    - Mush
+    - Limbo II
     - Mutiny
     - Natsukashii
     - Persisto
@@ -132,13 +134,13 @@ pools:
     - Arabia
     - Autunno
     - Azure
-    - Bizarre Bazaar
     - Boletum
     - BoomBox Redux
     - Canyon II
     - Cargo
     - Clearcut
     - Desert Cataract
+    - Deserted Sanctuary
     - Enchanted
     - Ender Blast
     - Fortress Battles
@@ -178,6 +180,7 @@ pools:
     players: 48
     display-name: "hecto"
     maps:
+    - A New Day
     - Aequabilis
     - Avalanche
     - Bamboo Valley III
@@ -192,6 +195,7 @@ pools:
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
+    - Fourchette
     - Fractal Descent Classic
     - Harb
     - Inheritance
@@ -224,9 +228,9 @@ pools:
     - Turf Wars
     - Two Tier
     - Valley of the Dead
-    - Wild Isle
     - Winsray Fields
     - Wooly Woods
+    - Xion
   mega:
     type: voted
     enabled: true
@@ -281,6 +285,7 @@ pools:
     - Wintery Cabin
     - Woodwork Harbor
     - Yggdrasil
+    - "Zap: Remix"
   giga:
     type: voted
     enabled: true
