@@ -77,13 +77,10 @@ pools:
     - Anvil
     - Arabian Nightmare
     - Atromix
-    - Avalanche Mini
     - BalloonsDTM
     - Blitzkrieg CTF
     - Boom
-    - Cake Wars
     - Canopy
-    - Catacomb
     - Chocolate Diamonds
     - Circus DTC
     - Citadel
@@ -95,9 +92,9 @@ pools:
     - Directrix
     - Discipline
     - Dorreak
-    - Downtown
     - Dust
     - Empire
+    - Equinox
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
@@ -110,7 +107,6 @@ pools:
     - Limbo II
     - Mutiny
     - Natsukashii
-    - Orange
     - Persisto
     - Piorun
     - Placid Spring
@@ -120,14 +116,11 @@ pools:
     - SolitudeMC
     - Spaced Out
     - Streamline
-    - Strongbow
     - SuperPRISM
     - Temple
     - The Fenland
     - The High Road
     - "Tree of Life: Mini"
-    - Verlate
-    - Warehouse
     - Warlock
   centi:
     type: voted
@@ -141,60 +134,44 @@ pools:
     - Arabia
     - Autunno
     - Azure
-    - Beach Battles
     - Boletum
-    - Bookshelf x64
     - BoomBox Redux
     - Canyon II
     - Cargo
     - Clearcut
-    - Coral Reef II
-    - Cyril
     - Desert Cataract
     - Deserted Sanctuary
-    - Donut Wars
     - Enchanted
     - Ender Blast
-    - Equinox
     - Fortress Battles
     - Golden Drought III
     - Grub
-    - Harvest
     - Iris DTC
     - Long Shot
     - Lunar Crescent
     - Maple Syrup
-    - Medieval Warfare
     - Metropolis
     - Miner Sixty Niner
     - Molendinis
     - NewGen
     - Nutrient
-    - Ouroboros
     - OutCast 2
     - Palace CTF
     - Paradiso
     - Race for Victory 2
-    - Runes of Ruin
-    - "Sand Wars: DTE"
     - Siloë
     - Spaceship Battles
-    - State of Decay
     - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
     - The Complex CTF
     - The Last Sunset II
     - Thunder
-    - Totem
-    - Trench Warfare
     - UBoat König
     - Vesuvius
-    - Wanna Fly
     - Wholething
     - Wit's End
     - Woolirium
-    - Zao
     - Zoo
   hecto:
     type: voted
@@ -204,35 +181,28 @@ pools:
     maps:
     - A New Day
     - Aequabilis
-    - Athirk
     - Avalanche
     - Bamboo Valley III
-    - Battle Ecliptica III
+    - Battle Ecliptica IV
     - Beehive
-    - Below Zero
     - BlockRAGE
     - Cabin Fever
     - Cat's Cradle
-    - csc(tnt)
     - Columbia CTW
     - Coral Reef
+    - cos(tnt)
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
-    - "Fairy Tales 2: A Tale or Two"
     - Fourchette
-    - Fractal Descent
-    - Gridlock 2
+    - Fractal Descent Classic
     - Harb
-    - Haunted Corridors
     - Inheritance
-    - Interitus
     - Jungle Beat
     - Keipha CTW
-    - "Kryta: Rage"
+    - Kryta
     - Last Overcastian
     - Lupa
-    - Mayan Apocalypse
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
@@ -241,30 +211,25 @@ pools:
     - PixelMix
     - Pompeii RAGE
     - Quadrival
-    - Retaliation
+    - Retaliation 2
     - Ring Race
     - Riverside
     - Royal Garden DTC
     - Sinuous
-    - Ski Trip to Blizzardtown
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
-    - Swamped
     - Tenebrous
     - Tetrad
     - Thornwood
     - Thunderbolt
     - Townside
-    - Tridente
-    - Turf Wars Redux
+    - Turf Wars
     - Two Tier
     - Valley of the Dead
     - Winsray Fields
     - Wooly Woods
-    - Wrath Altar
     - Xion
-    - Zombie Defense
   mega:
     type: voted
     enabled: true
@@ -272,10 +237,10 @@ pools:
     display-name: "mega"
     maps:
     - Alpine Mining II
-    - Astro
     - Avalon Funland
     - Bamboo Valley
     - Battle for Amaterasu
+    - Battle of Tenjin II
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
@@ -284,12 +249,10 @@ pools:
     - Cake Day
     - Corrupted Paradise CTW
     - "Chle's Great Wall"
-    - Crippled Divide
     - DATAbasin
-    - Enchanted Woods
+    - Dragon's Hearth
     - Far Fetched
     - Frost
-    - Full Salvo
     - Glacial Impact
     - Golden Drought
     - Green Gem CTW
@@ -303,13 +266,12 @@ pools:
     - Lunar Coliseum
     - Masarin II
     - Mushroom Gorge
-    - Necro
     - Nivalis
     - Nuclear Winter
+    - Opal
     - Race for Victory 3
     - Road Trip to Sunset Town
     - Scrap Mettle
-    - Synergy
     - The 4th Law
     - The Archives
     - The Arena
@@ -317,7 +279,6 @@ pools:
     - Titan
     - Totally War II
     - Tumbleweed
-    - Twisted
     - Viridun
     - Wildwood Crevice
     - Wintery Cabin
@@ -332,16 +293,13 @@ pools:
     maps:
     - Anathema
     - Argon
-    - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
     - Battle of Lyndanisse
-    - Battle of Tenjin 2
     - Bridge Over Troubled Water
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
-    - Dragon's Hearth
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -353,7 +311,6 @@ pools:
     - Modern Cityscape
     - Moonlight Summit
     - Northlands
-    - Opal
     - Ozone
     - Paradise Isle
     - Rift
