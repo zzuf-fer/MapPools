@@ -156,7 +156,6 @@ pools:
     - Molendinis
     - NewGen
     - Nutrient
-    - OutCast 2
     - Palace CTF
     - Paradiso
     - Race for Victory 2
@@ -173,6 +172,7 @@ pools:
     - Wholething
     - Wit's End
     - Woolirium
+    - Zipline
     - Zoo
   hecto:
     type: voted
