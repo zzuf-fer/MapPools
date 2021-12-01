@@ -126,7 +126,6 @@ pools:
     - Canopy
     - Cargo
     - Circus DTC
-    - Citadel
     - Cloud Nine
     - Clutter
     - Cuboid Fairway
@@ -135,7 +134,6 @@ pools:
     - Discipline
     - Dorreak
     - "Downtown: Christmas Eve"
-    - Dust
     - Empire
     - Equinox
     - Everlasting
@@ -144,21 +142,24 @@ pools:
     - Hallows
     - Justice
     - Larnia
+    - La Piazza
     - Levels
     - Mush
     - Mutiny
     - Natsukashii
     - Persisto
     - Placid Spring
+    - Polus FFA
+    - Pokemon Arena
     - Rotten
     - Smoke KotH
+    - Snow
     - Snowline Redux
     - "Snowy Wars: Christmas"
     - "SolitudeMC: Christmas"
-    - Spaced Out
     - Streamline
-    - SuperPRISM
-    - Temple
+    - Tahiti
+    - The Campgrounds
     - The Fenland
     - The High Road
     - "Tree of Life: Mini"
@@ -171,43 +172,41 @@ pools:
     display-name: "centi"
     maps:
     - Aerobellum
-    - Afflicted
     - Airship Battle
-    - Arabia
-    - Autunno
     - "Azure: Christmas"
+    - Badlands
     - Boletum
     - BoomBox Redux
     - Canyon II
     - Christmas Sanctuary
     - Coldcut
     - "Concourse: Christmas"
-    - Desert Cataract
-    - Enchanted
-    - Ender Blast
+    - Cyril
+    - "Enchanted: Christmas"
     - Fortress Battles
     - Golden Drought III
     - Grub
-    - Harvest
     - Iris DTC
+    - Jurassic Attack FFA
+    - L'Automne
     - Long Shot
     - Lunar Crescent
     - Metropolis
-    - Miner Sixty Niner
-    - Molendinis
     - NewGen
     - Nutrient
     - OutCast 2
     - Palace CTF
-    - Paradiso
     - Race for Victory 2
+    - Shave Santa
     - Siloë
+    - Space Base
     - Spaceship Battles
     - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
-    - The Last Sunset II
-    - Thunder
+    - The City
+    - The Last Sunset
+    - Thundersnow
     - UBoat König
     - Vesuvius
     - Wholething
@@ -224,41 +223,43 @@ pools:
     - Aequabilis
     - Avalanche
     - Bamboo Valley III
-    - Beehive
+    - Below Zero
     - BlockRAGE
     - Cabin Fever
     - Cat's Cradle
     - Columbia CTW
     - Coral Reef
-    - cos(tnt)
+    - Desert Eclipse
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
-    - Fractal Descent Classic
+    - Fractal Descent
+    - Golden Fever
     - Harb
     - Inheritance
+    - Interitus
     - Jungle Beat
     - Keipha CTW
-    - Kryta
     - Last Overcastian
     - Lupa
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
+    - Outback
+    - Ozone FFA
     - Pandemonium
     - PixelMix
     - Pompeii RAGE
     - Quadrival
     - Retaliation 2
-    - Ring Race
+    - Ring Run
     - Riverside
-    - Royal Christmas DTC
+    - Royal Garden DTC #Royal Christmas DTC when it's fixed
     - Sinuous
-    - Snowback
+    - Snowy Isle
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
-    - Tenebrous
     - Tetrad
     - Thornwood
     - Thunderbolt
@@ -266,9 +267,8 @@ pools:
     - Turf Wars
     - Two Trees
     - Valley of the Dead
-    - Wild Isle
+    - Viridun FFA
     - Winsray Fields
-    - Wooly Woods
   mega:
     type: voted
     enabled: true
@@ -293,7 +293,6 @@ pools:
     - Frost
     - Glacial Impact
     - Golden Drought
-    - Green Gem CTW
     - Hadron
     - Harbor CTW
     - Holiday Blocks
@@ -301,7 +300,6 @@ pools:
     - Hotel Overcast
     - Hydrolock
     - Ion
-    - Lights Out
     - Lunar Coliseum
     - Masarin II
     - Mushroom Gorge
@@ -310,16 +308,18 @@ pools:
     - Opal
     - Race for Victory 3
     - Road Trip to Sunset Town
-    - Scrap Mettle
+    - Snow Run FFA
     - The 4th Law
     - The Archives
     - The Arena
     - The Hill Redux
+    - The Pipes
     - Titan
     - Totally War II
     - Tumbleweed
-    - Viridun
+    - Wedgesome
     - Wildwood Crevice
+    - Winter Gem CTW
     - Wintery Cabin
     - Woodwork Harbor
     - Yggdrasil
