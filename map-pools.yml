@@ -1,10 +1,10 @@
 pools:
-  pico:
+  pico_ffa:
     type: shuffled
     cycle-time: 15s
-    enabled: true
+    enabled: false
     players: 1
-    display-name: "pico"
+    display-name: "pico (FFA)"
     maps:
     - Government
     - Frontier
@@ -28,8 +28,8 @@ pools:
   nano:
     type: shuffled
     cycle-time: 15s
-    enabled: true
-    players: 6
+    enabled: false
+    players: 8
     display-name: "nano"
     maps:
     - Arctic Ruins
@@ -66,48 +66,53 @@ pools:
     - Infernal Shadow
     - Danagal Valley DTM
     - Jurassic Mini
-  votednano:
+  pico:
+    type: shuffled
+    cycle-time: 15s
+    enabled: true
+    players: 1
+    display-name: "pico"
+    maps:
+    - Chestnut
+    - King Neptune
+    - Maple Falls
+    - Odin
+    - Promenade
+    - Sunset Glaze
+    - Voltage
+  nano_voted:
     type: voted
     cycle-time: 30s
     enabled: true
-    dynamic: false
-    players: 6
+    players: 10
     display-name: "nano (voted)"
     maps:
-    - Arctic Ruins
-    - Chestnut
-    - Dwyer Hill
-    - Stonehaven
-    - Xi II
-    - Seven
-    - Mini Drought
-    - Rage Quit TDM
-    - The Grove
-    - Limbo
-    - Fruhling
-    - Trigo
-    - Grassy Mound CTF
-    - Tatakai
-    - Assault
-    - Downforce
     - Acear I
-    - SuperCUBE
     - Aleppo
-    - Ruins of the User
-    - Hot Dam Mini
-    - King Neptune
+    - Arctic Ruins
+    - Assault
     - Balloon Archipelago
-    - Ubos CTF
-    - Race for Victory
-    - Tranquility
     - Battle Ecliptica II
-    - Royal
-    - Dynamo
-    - Divided
-    - Abudor
-    - Infernal Shadow
     - Danagal Valley DTM
-    - Jurassic Mini
+    - Divided
+    - Downforce
+    - Discount Fortress
+    - Dwyer Hill
+    - Dynamo
+    - Fruhling
+    - Grassy Mound CTF
+    - Hot Dam Mini
+    - Infernal Shadow
+    - Rage Quit TDM
+    - Royal
+    - Seven
+    - SuperCUBE
+    - Tatakai
+    - The Grove
+    - Tranquility
+    - Trigo
+    - Ubos CTF
+    - Xi II
   micro:
     type: voted
     enabled: true
