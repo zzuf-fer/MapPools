@@ -64,7 +64,7 @@ pools:
     - Divided
     - Abudor
     - Infernal Shadow
-    - Danagal Valley DTM
+    - Diramu Valley DTM
     - Jurassic Mini
   votednano:
     type: voted
@@ -106,7 +106,7 @@ pools:
     - Divided
     - Abudor
     - Infernal Shadow
-    - Danagal Valley DTM
+    - Diramu Valley DTM
     - Jurassic Mini
   micro:
     type: voted
@@ -115,30 +115,31 @@ pools:
     display-name: "micro"
     maps:
     - Acear II
-    - AFrostid
+    - Agrostid
     - Antiquis
     - Anvil
     - Arabian Nightmare
     - Atromix
-    - "BalloonsDTM: Xmas"
+    - BalloonsDTM
     - Blitzkrieg CTF
     - Boom
     - Canopy
     - Cargo
     - Circus DTC
-    - Cloud Nine
     - Clutter
     - Cuboid Fairway
     - Deepwind Jungle
-    - DirectriXmas
+    - Directrix
     - Discipline
     - Dorreak
-    - "Downtown: Christmas Eve"
+    - Downtown
+    - Dust
     - Empire
     - Equinox
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
+    - Green
     - Hallows
     - Justice
     - Larnia
@@ -153,16 +154,14 @@ pools:
     - Pokemon Arena
     - Rotten
     - Smoke KotH
-    - Snow
     - Snowline Redux
-    - "Snowy Wars: Christmas"
-    - "SolitudeMC: Christmas"
+    - Snowy Wars
+    - SolitudeMC
     - Streamline
     - Tahiti
     - The Fenland
     - The High Road
     - Warlock
-    - White
   centi:
     type: voted
     enabled: true
@@ -171,16 +170,15 @@ pools:
     maps:
     - Aerobellum
     - Airship Battle
-    - "Azure: Christmas"
+    - Azure
     - Badlands
-    - Boletum
+    - "Boletum: Remix"
     - BoomBox Redux
     - Canyon II
-    - Christmas Sanctuary
-    - Coldcut
-    - "Concourse: Christmas"
+    - Desert Sanctuary
+    - Clearcut
     - Cyril
-    - "Enchanted: Christmas"
+    - Enchanted
     - Fortress Battles
     - Golden Drought III
     - Grub
@@ -195,7 +193,6 @@ pools:
     - OutCast 2
     - Palace CTF
     - Race for Victory 2
-    - Shave Santa
     - Siloë
     - Space Base
     - Spaceship Battles
@@ -204,13 +201,12 @@ pools:
     - Tebulas
     - The City
     - The Last Sunset
-    - Thundersnow
+    - Thunder
     - UBoat König
     - Vesuvius
     - Wholething
-    - "Wit's End: Christmas"
+    - Wit's End
     - Woolirium
-    - Zipmas
     - Zoo
   hecto:
     type: voted
@@ -235,7 +231,6 @@ pools:
     - Fractal Descent
     - Golden Fever
     - Harb
-    - Hotel at Christmas Eve
     - Inheritance
     - Interitus
     - Jungle Beat
@@ -245,7 +240,7 @@ pools:
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
-    - Snowback
+    - Outback
     - Ozone FFA
     - Pandemonium
     - PixelMix
@@ -254,20 +249,20 @@ pools:
     - Retaliation 2
     - Ring Run
     - Riverside
-    - Royal Garden DTC #Royal Christmas DTC when it's fixed
+    - Royal Garden DTC
     - Sinuous
-    - Snowy Isle
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
     - Tetrad
     - Thornwood
     - Thunderbolt
-    - TownFROST
+    - Townside
     - Turf Wars
-    - Two Trees
+    - Two Tier
     - Valley of the Dead
     - Viridun FFA
+    - Wild Isle
     - Winsray Fields
   mega:
     type: voted
@@ -284,7 +279,8 @@ pools:
     - "Blocks: Destroy the Dynamite"
     - Blocks II
     - Cake Day
-    - Candy Cane Valley
+    - Bamboo Valley
+    - Blocks DTC
     - Corrupted Paradise CTW
     - "Chle's Great Wall"
     - DATAbasin
@@ -293,11 +289,11 @@ pools:
     - Frost
     - Glacial Impact
     - Golden Drought
+    - Green Gem CTW
     - Hadron
     - Harbor CTW
-    - Holiday Blocks
     - Hot Dam
-    - Hotel at Christmas Eve
+    - Hotel Overcast
     - Hydrolock
     - Ion
     - Lunar Coliseum
@@ -319,7 +315,6 @@ pools:
     - Tumbleweed
     - Wedgesome
     - Wildwood Crevice
-    - Winter Gem CTW
     - Wintery Cabin
     - Woodwork Harbor
     - Yggdrasil
@@ -333,12 +328,11 @@ pools:
     - Argon
     - Baroque Gardens
     - Bastion Hill CTF
-    - Battle of Lyndanisse Snowmen
+    - Battle of Lyndanisse
     - Bridge Over Troubled Water
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
-    - Festive Venice
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -366,6 +360,7 @@ pools:
     - Total War
     - Tree of Life
     - Trench Warfare 2
+    - Venice TDM
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
@@ -719,6 +714,7 @@ pools:
     - An Overcast Christmas
     - "Azure: Christmas" #Azure
     - "BalloonsDTM: Christmas" #BalloonsDTM
+    - "BalloonsDTM: Xmas" #BalloonsDTM alt edit
     - "Battle of Lyndanisse: Snowmen" #Battle of Lyndanisse
     - Blizz Christmas #Blizz
     - Candy Cane Valley #Bamboo Balley
