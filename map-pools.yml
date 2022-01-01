@@ -178,6 +178,7 @@ pools:
     - Desert Sanctuary
     - Clearcut
     - Cyril
+    - Discount Fortress
     - Enchanted
     - Fortress Battles
     - Golden Drought III
@@ -214,7 +215,6 @@ pools:
     players: 48
     display-name: "hecto"
     maps:
-    - Aequabilis
     - Agrorythe
     - Avalanche
     - Bamboo Valley III
@@ -243,12 +243,12 @@ pools:
     - Outback
     - Ozone FFA
     - Pandemonium
+    - Parabola
     - PixelMix
     - Pompeii RAGE
     - Quadrival
     - Retaliation 2
     - Ring Run
-    - Riverside
     - Royal Garden DTC
     - Sinuous
     - State of Decay II
