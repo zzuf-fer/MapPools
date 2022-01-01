@@ -175,9 +175,9 @@ pools:
     - Azure
     - Badlands
     - "Boletum: Remix"
-    - BoomBox Redux
     - Canyon II
     - Desert Sanctuary
+    - Ender Blast
     - Clearcut
     - Cyril
     - Discount Fortress
@@ -219,7 +219,6 @@ pools:
     - Agrorythe
     - Avalanche
     - Bamboo Valley III
-    - Below Zero
     - BlockRAGE
     - Cabin Fever
     - Cat's Cradle
@@ -229,6 +228,7 @@ pools:
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
+    - "Fairy Tales 2: A Tale or Two"
     - Fractal Descent
     - Golden Fever
     - Harb
@@ -286,10 +286,10 @@ pools:
     - Corrupted Paradise CTW
     - "Chle's Great Wall"
     - DATAbasin
-    - Dragon's Hearth
     - Far Fetched
     - Frost
     - Glacial Impact
+    - Goo Lagoon
     - Golden Drought
     - Green Gem CTW
     - Hadron
@@ -335,6 +335,7 @@ pools:
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
+    - Dragon's Hearth
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -346,6 +347,7 @@ pools:
     - Modern Cityscape
     - Moonlight Summit
     - Northlands
+    - Old Life CTW
     - Ozone
     - Paradise Isle
     - Rift
