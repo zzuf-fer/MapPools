@@ -264,6 +264,7 @@ pools:
     - We Sell Mushrooms
     - Wild Isle
     - Winsray Fields
+    - Wooly Woods
   mega:
     type: voted
     enabled: true
