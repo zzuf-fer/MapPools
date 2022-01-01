@@ -170,6 +170,7 @@ pools:
     maps:
     - Aerobellum
     - Airship Battle
+    - Arabia
     - Azure
     - Badlands
     - "Boletum: Remix"
@@ -208,7 +209,6 @@ pools:
     - Wholething
     - Wit's End
     - Woolirium
-    - Zoo
   hecto:
     type: voted
     enabled: true
