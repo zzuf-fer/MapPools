@@ -2,7 +2,7 @@ pools:
   pico:
     type: shuffled
     cycle-time: 15s
-    enabled: true
+    enabled: false
     players: 1
     display-name: "pico"
     maps:
@@ -49,6 +49,12 @@ pools:
     - "Ubos CTF"
     - "Vertex"
     - "Voltage"
+    # everything manual below this point
+    - "Puddin' Pops"
+    - "Wool Story Bro"
+    - "Flappy Bird"
+    - "Thin Ice"
+    - "Parkour: Debris"
   micro:
     type: voted
     cycle-time: 30s
