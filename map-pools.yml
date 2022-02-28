@@ -2,7 +2,7 @@ pools:
   pico:
     type: shuffled
     cycle-time: 15s
-    enabled: false
+    enabled: true
     players: 1
     display-name: "pico"
     maps:
@@ -31,7 +31,6 @@ pools:
     players: 6
     display-name: "nano"
     maps:
-    - "Acear I"
     - "Arctic Ruins"
     - "Battle Ecliptica II"
     - "Chestnut"
@@ -43,16 +42,13 @@ pools:
     - "King Neptune"
     - "Mini Drought"
     - "Pompeii 5x5"
+    - "Royal Rumble II"
     - "Sarc"
     - "Seaside Plaza"
+    - "Sunset Glaze"
     - "Ubos CTF"
     - "Vertex"
-    # everything manual below this point
-    - "Puddin' Pops"
-    - "Wool Story Bro"
-    - "Flappy Bird"
-    - "Thin Ice"
-    - "Parkour: Debris"
+    - "Voltage"
   micro:
     type: voted
     cycle-time: 30s
@@ -63,8 +59,7 @@ pools:
     - "Aleppo"
     - "Assault"
     - "BalloonsDTM"
-    - "Cake Wars"
-    - "Directrix"
+    - "Directredux"
     - "Divided"
     - "Dorreak"
     - "Downforce"
@@ -73,20 +68,19 @@ pools:
     - "Exit"
     - "Fairy Tales 2: Mini"
     - "Fruhling"
+    - "Fumeen II"
     - "Grassy Mound CTF"
     - "Hot Dam Mini"
     - "Huanxiang"
     - "Infernal Shadow"
     - "Limbo"
     - "Oumuamua"
-    - "Pineium"
+    - "Pineium DTM"
     - "Placid Spring"
-    - "Race for Victory"
     - "Rage Quit TDM"
     - "Royal"
     - "Seven"
     - "Splinter"
-    - "Stonehaven"
     - "Summer Sadness"
     - "SuperCUBE"
     - "Tatakai"
@@ -106,8 +100,9 @@ pools:
     maps:
     - "Acear II"
     - "Agrostid"
+    - "Annealing"
     - "Anvil"
-    - "Balloon Archipelago"
+    - "Arabia"
     - "Blitzkrieg CTF"
     - "Blossom CTW"
     - "Boom"
@@ -127,7 +122,6 @@ pools:
     - "Equinox"
     - "Everlasting"
     - "Facility"
-    - "Fairy Tales: Metamorphose"
     - "Green"
     - "Hallows"
     - "Hirap"
@@ -142,6 +136,7 @@ pools:
     - "Levels"
     - "Limbo II"
     - "Lupain"
+    - "Mbanza"
     - "Mush"
     - "Mushroom Monuments"
     - "Mutiny"
@@ -149,6 +144,7 @@ pools:
     - "Pokemon Arena"
     - "Polus FFA"
     - "Quadrosphere CTW"
+    - "Rattlesnake"
     - "Rotten"
     - "Smoke KotH"
     - "Snow Level"
@@ -159,6 +155,7 @@ pools:
     - "Temple"
     - "Teokalli"
     - "Townside Mini"
+    - "Tulog"
     - "Villa"
     - "Waterwood"
   centi:
@@ -168,42 +165,45 @@ pools:
     players: 32
     display-name: "centi"
     maps:
-    - "Aerobellum"
+    - "Aerobellum Redux"
     - "Airship Battle"
-    - "Arabia"
     - "Azure"
     - "Badlands"
+    - "Beach Battles"
     - "Boletum: Remix"
     - "BoomBox Redux"
     - "Calico"
-    - "Canyon II"
     - "Clearcut"
+    - "Concourse"
     - "Cuboid Fairway"
     - "Cyril"
     - "Desert Cataract"
     - "Desert Sanctuary"
     - "Discount Fortress"
-    - "Dominion"
     - "Duality"
     - "Enchanted"
     - "Ender Blast"
+    - "Fairy Tales: Metamorphose"
     - "Fortress Battles"
     - "Fungi Grove"
     - "Golden Drought III"
     - "Grub"
     - "Iris DTC"
+    - "Java II"
     - "L'Automne"
     - "Long Shot"
     - "Lunar Crescent"
-    - "Malupa"
-    - "Maple Syrup"
     - "Metropolis"
-    - "NewGen"
+    - "Mo'ai"
     - "Nutrient"
+    - "Oceano CTW"
     - "OutCast 2"
     - "Palace CTF"
+    - "Pineium CTW"
     - "Race for Victory 2"
     - "Runes of Ruin"
+    - "Sakura Garden"
+    - "Scorched"
     - "Siloë"
     - "Spaceship Battles"
     - "Sunrise Over Paradise Redux"
@@ -211,14 +211,13 @@ pools:
     - "Tebulas"
     - "The City"
     - "The Last Sunset"
-    - "Thunder"
     - "Totem"
-    - "UBoat König"
     - "Vesuvius"
     - "When Men Cried"
     - "Wholething"
     - "Wit's End"
     - "Woolirium"
+    - "Zipline"
   hecto:
     type: voted
     cycle-time: 35s
@@ -227,32 +226,37 @@ pools:
     display-name: "hecto"
     maps:
     - "A New Day"
-    - "Agrorythe"
     - "Avalanche"
     - "Bamboo Valley III"
     - "Beehive"
     - "BlockRAGE"
     - "Cabin Fever"
-    - "CannonCube"
     - "Cat's Cradle"
     - "Columbia CTW"
     - "Coral Reef"
     - "Desert Eclipse"
     - "Drow's Crevice III"
     - "Exiled KotF"
+    - "Factorio Mainbus"
     - "Fairy Tales 2: A Tale or Two"
+    - "Fourchette"
     - "Fractal Descent Classic"
     - "Golden Fever"
     - "Harb"
+    - "Hillside Daydream"
     - "Inheritance"
     - "Interitus"
     - "Jungle Beat"
     - "Jurassic Attack RAGE"
     - "Keipha CTW"
     - "Kryta: Rage"
+    - "Kusa"
     - "Last Overcastian"
     - "Lupa"
     - "Mystic Point"
+    - "Mythical Marsh"
+    - "Nether War CTW"
+    - "Niflheim"
     - "Oaken Meadow"
     - "Outback"
     - "Pandemonium"
@@ -267,7 +271,6 @@ pools:
     - "Space Base"
     - "State of Decay II"
     - "Storm Redux"
-    - "Summertime at Brown's Farms"
     - "Thornwood"
     - "Thunderbolt"
     - "Townside"
@@ -287,6 +290,7 @@ pools:
     display-name: "mega"
     maps:
     - "Alpine Mining II"
+    - "Annealing II"
     - "Avalon Funland"
     - "Bamboo Valley"
     - "Battle for Amaterasu"
@@ -334,17 +338,14 @@ pools:
     - "Wildwood Crevice"
     - "Wintery Cabin"
     - "Woodwork Harbor"
-    # manual
-    - "Annealing II"
   giga:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 78
+    players: 80
     display-name: "giga"
     maps:
     - "Anathema"
-    - "Annealing II"
     - "Argon"
     - "Baroque Gardens"
     - "Bastion Hill CTF"
@@ -369,6 +370,7 @@ pools:
     - "Paradise Isle"
     - "Rift"
     - "Royal Garden CTW"
+    - "Sky Traffic 2"
     - "Soviet Mills"
     - "Spaceship Battles II"
     - "Tempest"
@@ -593,7 +595,7 @@ pools:
     - Aureola Rage
     - BipBetaMC
     - "Bliss: Rage"
-    - Blossom
+    - Blossom Blitz
     - Bouncy Stadium
     - BVC
     - Charge
@@ -618,7 +620,7 @@ pools:
     - Immortal
     - Infinite
     - Into the Jungle
-    - Java
+    - Java Blitz
     - Lush
     - Magnolia Creek
     - Milky Way
